@@ -1,22 +1,22 @@
 ---
-title: This is a Title
+title: This is a Title LALALALA
 description: This is a description
 image: /images/demo-image.jpg
 draft: false
-optional: ''
+optional: ""
 ---
+# This is a heading LALALA
 
-# This is a heading
+this is *some* **text** that may be both **bold *and italic***.
 
-this is _some_ **text** that may be both **bold _and italic_**.
+## And another heading LALALA
 
-## And another heading
+* this is a list
+* with some
+* items
 
-- this is a list
-- with some
-- items
-  - and some
-  - subitems
+  * and some
+  * subitems
 
 1. this is a numbered list
 2. it has numbers
