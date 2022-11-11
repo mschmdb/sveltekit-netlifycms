@@ -1,9 +1,9 @@
 ---
-title: This is a Title
+title: This is a Title LALALALA
 description: This is a description
 image: /images/demo-image.jpg
 draft: false
-optional: ''
+optional: ""
 ---
 
 # This is a heading
