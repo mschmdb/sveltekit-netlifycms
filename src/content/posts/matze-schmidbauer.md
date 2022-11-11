@@ -1,7 +1,7 @@
 ---
-title: Matze Schmidbauer
-description: Mädchen für alles
-image: /images/1004758_3faf34acebf64dd14f301bb9e1840802.jpg
+title: Arne Krüger
+description: GF von det Janze
+image: /images/bildschirm-foto-2022-11-11-um-13.39.54.png
 draft: true
 ---
-M﻿ädchen für alles. Immer da.
+Chef von det Janze und lorem ipsum usw
